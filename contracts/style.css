@@ -1,0 +1,75 @@
+/* Global styles */
+
+
+@font-face {
+  font-family: 'Pacifico';
+  src: url("C:\Users\justi\Downloads\Pacifico.zip") format('woff2')
+}
+body {
+    font-family:Arial, sans-serif;
+    background-color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+
+    background-color: lightblue;
+    color: #0a0a0a;
+    padding: 20px;
+    text-align: center;
+  }
+  div{
+  text-align:left;
+  }
+  div{
+  text-align:center;
+  }
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: #f1ebeb;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    color: #f5f2f2;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  div{
+  
+    text-align: center;
+  }
+  #my footer {
+    color:black;
+  }
+  footer {
+    
+    background-color: lightblue;
+    color: #100f0f;
+    padding: 20px
+  }
